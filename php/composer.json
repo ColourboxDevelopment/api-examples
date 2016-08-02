@@ -1,0 +1,8 @@
+{
+	"require": {
+		"guzzlehttp/guzzle": "~5"
+    },
+	"autoload": {
+		"psr-0": { "": "" }
+	}
+}
